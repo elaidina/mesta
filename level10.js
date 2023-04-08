@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Drawing is difficult.'
+      img: 'Mexiko'
     },
     {
       name: '1',
-      img: 'Kreslenie je ťažké.'
+      img: 'Ciudad de México'
     },
     {
       name: '2',
-      img: 'How do you build a house?'
+      img: 'Mikronézie'
     },
     {
       name: '2',
-      img: 'Ako staviaš dom?'
+      img: 'Palikir'
     },
     {
       name: '3',
-      img: 'The house consists of walls, a roof, windows, a chimney, a fence and a door.'
+      img: 'Moldavsko'
     },
     {
       name: '3',
-      img: 'Dom sa skladá zo stien, strechy, okien, komína, plotu a dverí.'
+      img: 'Kišiněv'
     },
     {
       name: '4',
-      img: 'The blue ball is bigger than the red ball.'
+      img: 'Monako'
     },
     {
       name: '4',
-      img: 'Modrá guľa je väčšia ako červená guľa.'
+      img: 'Monako-Ville'
     },
     {
       name: '5',
-      img: 'Which ball is the biggest?'
+      img: 'Mongolsko'
     },
     {
       name: '5',
-      img: 'Ktorá lopta je najväčšia?'
+      img: 'Ulánbátar'
     },
     {
       name: '6',
-      img: 'I would like to learn an English song.'
+      img: 'Mosambik'
     },
     {
       name: '6',
-      img: 'Rád by som sa naučil anglickú pesničku.'
+      img: 'Maputo'
     },
     {
       name: '7',
-      img: 'We can call Mary.'
+      img: 'Myanmar (Barma)'
     },
     {
       name: '7',
-      img: 'Môžeme zavolať Mary.'
+      img: 'Neipyijto'
     },
     {
       name: '8',
-      img: "She´s a very good singer."
+      img: "Namibie"
     },
     {
       name: '8',
-      img: 'Je to veľmi dobrá speváčka.'
+      img: 'Windhoek'
     },
     {
       name: '9',
-      img: 'Listen, do you know this song?'
+      img: 'Nauru'
     },
     {
       name: '9',
-      img: 'Počuj, poznáš túto pesničku?'
+      img: 'Yaren'
     },
     {
       name: '10',
-      img: 'There is a brilliant book on the shelf.'
+      img: 'Německo'
     },
     {
       name: '10',
-      img: 'Na poličke je skvelá kniha.'
+      img: 'Berlín'
     },
     {
       name: '11',
-      img: 'I often read this book.'
+      img: 'Nepál'
     },
     {
       name: '11',
-      img: 'Často čítam túto knihu.'
+      img: 'Káthmándú'
     },
     {
       name: '12',
-      img: 'I am too short to reach the book on the shelf.'
+      img: 'Niger'
     },
     {
       name: '12',
-      img: 'Som príliš nízky na to, aby som dosiahol na knihu na poličke.'
+      img: 'Niamey'
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 10 completed!</h2><a href="https://elaidina.github.io/js/level11.html"> Continue to Level 11</a>';
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 10 completed!</h2><a href="https://elaidina.github.io/mesta/level11.html"> Continue to Level 11</a>';
 
 
       var audio3 = new Audio ("images/end.mp3")

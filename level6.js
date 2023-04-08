@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'How can I help you?'
+      img: 'Irák'
     },
     {
       name: '1',
-      img: "Ako ti môžem pomôcť?"
+      img: "Bagdád"
     },
     {
       name: '2',
-      img: 'Can you have a look on the table?'
+      img: 'Irán'
     },
     {
       name: '2',
-      img: "Môžeš sa pozrieť na stôl?"
+      img: "Teherán"
     },
     {
       name: '3',
-      img: 'It was under the table.'
+      img: 'Irsko'
     },
     {
       name: '3',
-      img: 'Bolo to pod stolom.'
+      img: 'Dublin'
     },
     {
       name: '4',
-      img: 'I thought it was on the cupboard or near the chair.'
+      img: 'Island'
     },
     {
       name: '4',
-      img: 'Myslel som, že je to na skrini alebo blízko stoličky.'
+      img: 'Reykjavík'
     },
     {
       name: '5',
-      img: 'I´m building a lego car.'
+      img: 'Itálie'
     },
     {
       name: '5',
-      img: "Staviam legové auto."
+      img: "Řím"
     },
     {
       name: '6',
-      img: 'Look at this small picture.'
+      img: 'Izrael'
     },
     {
       name: '6',
-      img: 'Pozri sa na tento malý obrázok.'
+      img: 'Jeruzalém'
     },
     {
       name: '7',
-      img: 'There are many strawberries, cherries, raspberries and grapes.'
+      img: 'Jamajka'
     },
     {
       name: '7',
-      img: 'Je tam veľa jahôd, čerešní, malín a hrozna.'
+      img: 'Kingston'
     },
     {
       name: '8',
-      img: 'The pears and apricots are not ripe yet.'
+      img: 'Jemen'
     },
     {
       name: '8',
-      img: 'Hrušky a marhule ešte nie sú zrelé.'
+      img: 'San´á'
     },
     {
       name: '9',
-      img: 'Here´s your plate, fork, cup and spoon.'
+      img: 'Jižní Afrika'
     },
     {
       name: '9',
-      img: 'Tu máš tanier, vidličku, pohár a lyžicu.'
+      img: 'Bloemfontein, Pretorie, Kapské Město'
     },
     {
       name: '10',
-      img: 'Is this your bag or not?'
+      img: 'Jižní Korea'
     },
     {
       name: '10',
-      img: 'Je to tvoja taška alebo nie?'
+      img: 'Soul'
     },
     {
       name: '11',
-      img: 'My doll has got big blue eyes and long hair.'
+      img: 'Jižní Sudán'
     },
     {
       name: '11',
-      img: 'Moja bábika má veľké modré oči a dlhé vlasy.'
+      img: 'Džuba'
     },
     {
       name: '12',
-      img: 'Let´s take scissors and cut out a heart.'
+      img: 'Jordánsko'
     },
     {
       name: '12',
-      img: "Vezmime si nožnice a vystrihneme srdce."
+      img: "Ammán"
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 6 completed!</h2><a href='https://elaidina.github.io/js/level7.html'> Continue to Level 7</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 6 completed!</h2><a href='https://elaidina.github.io/mesta/level7.html'> Continue to Level 7</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

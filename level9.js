@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Don´t stand behind me.'
+      img: 'Lucembursko'
     },
     {
       name: '1',
-      img: "Nestoj za mnou."
+      img: "Lucemburk"
     },
     {
       name: '2',
-      img: 'I´m trying not to do that.'
+      img: 'Madagaskar'
     },
     {
       name: '2',
-      img: "Snažím sa to nerobiť."
+      img: "Antananarivo"
     },
     {
       name: '3',
-      img: 'We are learning to ride a bike.'
+      img: 'Maďarsko'
     },
     {
       name: '3',
-      img: "Učíme sa bicyklovať."
+      img: "Budapešť"
     },
     {
       name: '4',
-      img: 'Why are you crying?'
+      img: 'Malajsie'
     },
     {
       name: '4',
-      img: 'Prečo plačeš?'
+      img: 'Kuala Lumpur'
     },
     {
       name: '5',
-      img: 'Because I broke my leg.'
+      img: 'Malawi'
     },
     {
       name: '5',
-      img: 'Lebo som si zlomil nohu.'
+      img: 'Lilongwe'
     },
     {
       name: '6',
-      img: 'And I also broke my car.'
+      img: 'Maledivy'
     },
     {
       name: '6',
-      img: 'A tiež som si rozbil auto.'
+      img: 'Male'
     },
     {
       name: '7',
-      img: 'Can I help you repair it?'
+      img: 'Mali'
     },
     {
       name: '7',
-      img: 'Môžem ti pomôcť to opraviť?'
+      img: 'Bamako'
     },
     {
       name: '8',
-      img: 'Here are the keys.'
+      img: 'Malta'
     },
     {
       name: '8',
-      img: 'Tu sú kľúče.'
+      img: 'Valletta'
     },
     {
       name: '9',
-      img: 'Don´t break the rules.'
+      img: 'Maroko'
     },
     {
       name: '9',
-      img: 'Neporušuj pravidlá.'
+      img: 'Rabat'
     },
     {
       name: '10',
-      img: "I don´t go to school but I can read and write."
+      img: "Marshallovy ostrovy"
     },
     {
       name: '10',
-      img: 'Nechodím do školy, ale viem čítať a písať.'
+      img: 'Majuro'
     },
     {
       name: '11',
-      img: "I can´t lift this stone."
+      img: "Mauricius"
     },
     {
       name: '11',
-      img: 'Nemôžem zdvihnúť tento kameň.'
+      img: 'Port Louis'
     },
     {
       name: '12',
-      img: 'The stone is too heavy.'
+      img: 'Mauritánie'
     },
     {
       name: '12',
-      img: 'Kameň je príliš ťažký.'
+      img: 'Nuakšott'
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length 
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 9 completed!</h2><a href="https://elaidina.github.io/js/level10.html"> Continue to Level 10</a>'
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 9 completed!</h2><a href="https://elaidina.github.io/mesta/level10.html"> Continue to Level 10</a>'
 
 
       var audio3 = new Audio ("images/end.mp3")

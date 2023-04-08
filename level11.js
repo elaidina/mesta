@@ -3,91 +3,91 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I am taller and bigger than him.'
+      img: 'Nigérie'
     },
     {
       name: '1',
-      img: 'Som vyšší a väčší ako on.'
+      img: 'Abuja'
     },
     {
       name: '2',
-      img: 'But he is weaker than me.'
+      img: 'Nikaragua'
     },
     {
       name: '2',
-      img: 'Ale on je slabší než ja.'
+      img: 'Managua'
     },
     {
       name: '3',
-      img: 'Don ´t exaggerate.'
+      img: 'Nizozemsko'
     },
     {
       name: '3',
-      img: 'Nepreháňaj.'
+      img: 'Amsterdam'
     },
     {
       name: '4',
-      img: 'What will be the weather like tomorrow?'
+      img: 'Norsko'
     },
     {
       name: '4',
-      img: 'Aké bude zajtra počasie?'
+      img: 'Oslo'
     },
     {
       name: '5',
-      img: 'It should rain and be cold.'
+      img: 'Nový Zéland'
     },
     {
       name: '5',
-      img: 'Malo by pršať a byť zima.'
+      img: 'Wellington'
     },
     {
       name: '6',
-      img: 'Shall I take an umbrella?'
+      img: 'Omán'
     },
     {
       name: '6',
-      img: 'Mám si zobrať dáždnik?'
+      img: 'Maskat'
     },
     {
       name: '7',
-      img: 'Please, don´t forget to take an umbrella or a raincoat.'
+      img: 'Pakistán'
     },
     {
       name: '7',
-      img: 'Prosím, nezabudni si zobrať dáždnik alebo pršiplášť.'
+      img: 'Islámábád'
     },
     {
       name: '8',
-      img: 'Drink a lot of tea when you´re cold.'
+      img: 'Palau'
     },
     {
       name: '8',
-      img: 'Pi veľa čaju, keď ti je zima.'
+      img: 'Ngerulmud'
     },
     {
       name: '9',
-      img: 'Are you feeling sick?'
+      img: 'Palestina'
     },
     {
       name: '9',
-      img: 'Je ti zle?'
+      img: 'Rámaláh'
     },
     {
       name: '10',
-      img: 'I´ve been ill for two weeks.'
+      img: 'Panama'
     },
     {
       name: '10',
-      img: 'Bol som chorý dva týždne.'
+      img: 'Ciudad de Panamá'
     },
     {
       name: '11',
-      img: 'Dry your hair with this towel.'
+      img: 'Papua Nová Guinea'
     },
     {
       name: '11',
-      img: 'Vysušte si vlasy týmto uterákom.'
+      img: 'Port Moresby'
     },
     {
       name: '12',
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 11 completed!</h2><a href='https://elaidina.github.io/js/level12.html'> Continue to Level 12</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 11 completed!</h2><a href='https://elaidina.github.io/mesta/level12.html'> Continue to Level 12</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

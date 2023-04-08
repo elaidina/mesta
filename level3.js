@@ -3,99 +3,99 @@
   const cardArray = [
     {
       name: '1',
-      img: 'Is that your bag?'
+      img: 'Bulharsko'
     },
     {
       name: '1',
-      img: "To je tvoja taška?"
+      img: "Sofia"
     },
     {
       name: '2',
-      img: 'What have you got in your hand?'
+      img: 'Burkina Faso'
     },
     {
       name: '2',
-      img: "Čo to máš v ruke?"
+      img: "Ouagadougou"
     },
     {
       name: '3',
-      img: 'You can guess.'
+      img: 'Burundi'
     },
     {
       name: '3',
-      img: "Môžeš hádať."
+      img: "Gitega"
     },
     {
       name: '4',
-      img: 'Yes, it is mine.'
+      img: 'Čad'
     },
     {
       name: '4',
-      img: "Áno, to je moje."
+      img: "N´Djamena"
     },
     {
       name: '5',
-      img: 'This is my new bike.'
+      img: 'Černá Hora'
     },
     {
       name: '5',
-      img: "Toto je môj nový bicykel."
+      img: "Podgorica"
     },
     {
       name: '6',
-      img: 'Whose bike is that?'
+      img: 'Česko'
     },
     {
       name: '6',
-      img: "Čí je to bicykel?"
+      img: "Praha"
     },
     {
       name: '7',
-      img: 'It looks old.'
+      img: 'Čína'
     },
     {
       name: '7',
-      img: 'Vyzerá staro.'
+      img: 'Peking'
     },
     {
       name: '8',
-      img: 'How old do I look?'
+      img: 'Dánsko'
     },
     {
       name: '8',
-      img: "Ako staro vyzerám?"
+      img: "Kodaň"
     },
     {
       name: '9',
-      img: 'You look like a child.'
+      img: 'Konžská demokratická republika'
     },
     {
       name: '9',
-      img: 'Vyzeráš ako dieťa.'
+      img: 'Kinshasa'
     },
     {
       name: '10',
-      img: 'That apple is red.'
+      img: 'Dominika'
     },
     {
       name: '10',
-      img: 'To jablko je červené.'
+      img: 'Roseau'
     },
     {
       name: '11',
-      img: 'What is your favourite colour?'
+      img: 'Dominikánská republika'
     },
     {
       name: '11',
-      img: "Aká je tvoja obľúbená farba?"
+      img: "Santo Domingo"
     },
     {
       name: '12',
-      img: 'I like pink colour the most.'
+      img: 'Džibutsko'
     },
     {
       name: '12',
-      img: "Najviac mám rada ružovú."
+      img: "Džibuti"
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 3 completed!</h2><a href="https://elaidina.github.io/js/level4.html"> Continue to Level 4</a>';
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 3 completed!</h2><a href="https://elaidina.github.io/mesta/level4.html"> Continue to Level 4</a>';
 
 
       var audio3 = new Audio ("images/end.mp3")

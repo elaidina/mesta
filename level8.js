@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'I want to become a teacher.'
+      img: 'Kuba'
     },
     {
       name: '1',
-      img: 'Chcem sa stať učiteľkou.'
+      img: 'Havana'
     },
     {
       name: '2',
-      img: 'I want to teach children.'
+      img: 'Kuvajt'
     },
     {
       name: '2',
-      img: 'Chcem učiť deti.'
+      img: 'Kuvajt'
     },
     {
       name: '3',
-      img: 'She wants to be a doctor.'
+      img: 'Kypr'
     },
     {
       name: '3',
-      img: 'Ona chce byť lekárkou.'
+      img: 'Nikósie'
     },
     {
       name: '4',
-      img: 'Her dream is to cure people.'
+      img: 'Kyrgyzstán'
     },
     {
       name: '4',
-      img: 'Jej snom je liečiť ľudí.'
+      img: 'Biškek'
     },
     {
       name: '5',
-      img: 'Can you drive a car?'
+      img: 'Laos'
     },
     {
       name: '5',
-      img: 'Vieš šoférovať?'
+      img: 'Vientiane'
     },
     {
       name: '6',
-      img: 'Yes, I am a good driver.'
+      img: 'Lesotho'
     },
     {
       name: '6',
-      img: 'Áno, som dobrý vodič.'
+      img: 'Maseru'
     },
     {
       name: '7',
-      img: 'How many cars have you got?'
+      img: 'Libanon'
     },
     {
       name: '7',
-      img: "Koľko máš áut?"
+      img: "Bejrút"
     },
     {
       name: '8',
-      img: 'I have two cars and three bicycles.'
+      img: 'Libérie'
     },
     {
       name: '8',
-      img: "Mám dve autá a tri bicykle."
+      img: "Monrovia"
     },
     {
       name: '9',
-      img: 'Come and play cards with me.'
+      img: 'Libye'
     },
     {
       name: '9',
-      img: 'Poď si so mnou zahrať karty.'
+      img: 'Tripolis'
     },
     {
       name: '10',
-      img: 'I would rather play basketball.'
+      img: 'Lichtenštejnsko'
     },
     {
       name: '10',
-      img: 'Radšej by som hral basketbal.'
+      img: 'Vaduz'
     },
     {
       name: '11',
-      img: 'Are you good at playing football?'
+      img: 'Litva'
     },
     {
       name: '11',
-      img: 'Vieš hrať futbal dobre?'
+      img: 'Vilnius'
     },
     {
       name: '12',
-      img: 'Not at all.'
+      img: 'Lotyšsko'
     },
     {
       name: '12',
-      img: 'Vôbec nie.'
+      img: 'Riga'
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())
@@ -165,7 +165,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 8 completed!</h2><a href='https://elaidina.github.io/js/level9.html'> Continue to Level 9</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 8 completed!</h2><a href='https://elaidina.github.io/mesta/level9.html'> Continue to Level 9</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

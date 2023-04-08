@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'No, I haven´t'
+      img: 'Bangladéš'
     },
     {
       name: '1',
-      img: "Nie, nemám."
+      img: "Dháka"
     },
     {
       name: '2',
-      img: 'The sun is shining and it´s warm.'
+      img: 'Barbados'
     },
     {
       name: '2',
-      img: "Slnko svieti a je teplo."
+      img: "Bridgetown"
     },
     {
       name: '3',
-      img: 'What would you like to do?'
+      img: 'Brusel'
     },
     {
       name: '3',
-      img: "Čo by si chcel robiť?"
+      img: "Belgie"
     },
     {
       name: '4',
-      img: 'I would like to go out.'
+      img: 'Belize'
     },
     {
       name: '4',
-      img: "Chcel by som ísť von."
+      img: "Belmopan"
     },
     {
       name: '5',
-      img: 'Excuse me, who are you?'
+      img: 'Bělorusko'
     },
     {
       name: '5',
-      img: "Prepáčte, kto ste?"
+      img: "Minsk"
     },
     {
       name: '6',
-      img: 'Hello, my name is Tom.'
+      img: 'Benin'
     },
     {
       name: '6',
-      img: "Ahoj, volám sa Tom."
+      img: "Porto Novo"
     },
     {
       name: '7',
-      img: 'Is Tom a good friend?'
+      img: 'Bhútán'
     },
     {
       name: '7',
-      img: "Je Tom dobrý kamarát?"
+      img: "Thimbú"
     },
     {
       name: '8',
-      img: "No, he isn´t."
+      img: "Bolívie"
     },
     {
       name: '8',
-      img: 'Nie. Nie je.'
+      img: 'Sucre'
     },
     {
       name: '9',
-      img: 'That tall boy is my friend.'
+      img: 'Bosna a Hercegovina'
     },
     {
       name: '9',
-      img: "Ten vysoký chlapec je môj priateľ."
+      img: "Sarajevo"
     },
     {
       name: '10',
-      img: 'Come here and sit down.'
+      img: 'Botswana'
     },
     {
       name: '10',
-      img: "Poď sem a sadni si."
+      img: "Gaborone"
     },
     {
       name: '11',
-      img: 'Michelle, lend me your pen, please.'
+      img: 'Brazílie'
     },
     {
       name: '11',
-      img: "Michelle, požičaj mi svoje pero, prosím."
+      img: "Brasília"
     },
     {
       name: '12',
-      img: 'Let´s play with a ball.'
+      img: 'Brunej'
     },
     {
       name: '12',
-      img: "Poďme sa hrať s loptou."
+      img: "Bandar Seri Begawan"
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length 
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 2 completed!</h2><a href="https://elaidina.github.io/js/level3.html"> Continue to Level 3</a>'
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 2 completed!</h2><a href="https://elaidina.github.io/mesta/level3.html"> Continue to Level 3</a>'
 
 
       var audio3 = new Audio ("images/end.mp3")

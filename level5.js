@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Go to the door.'
+      img: 'Grenada'
     },
     {
       name: '1',
-      img: "Choď k dverám."
+      img: "Saint George´s"
     },
     {
       name: '2',
-      img: 'Can you shut the door?'
+      img: 'Gruzie'
     },
     {
       name: '2',
-      img: "Môžeš zavrieť dvere?"
+      img: "Tbilisi"
     },
     {
       name: '3',
-      img: 'What are you doing right now?'
+      img: 'Guatemala'
     },
     {
       name: '3',
-      img: "Čo práve robíš?"
+      img: "Ciudad de Guatemala"
     },
     {
       name: '4',
-      img: 'I´m drawing a flower.'
+      img: 'Guinea'
     },
     {
       name: '4',
-      img: "Kreslím kvet."
+      img: "Konakry"
     },
     {
       name: '5',
-      img: 'I am painting with my new water colours.'
+      img: 'Guinea-Bissau'
     },
     {
       name: '5',
-      img: "Maľujem svojimi novými vodovými farbami."
+      img: "Bissau"
     },
     {
       name: '6',
-      img: 'You have to eat your breakfast.'
+      img: 'Guyana'
     },
     {
       name: '6',
-      img: "Musíš sa naraňajkovať."
+      img: "Georgetown"
     },
     {
       name: '7',
-      img: 'What do we have for breakfast?'
+      img: 'Haiti'
     },
     {
       name: '7',
-      img: "Čo máme na raňajky?"
+      img: "Port-au-Prince"
     },
     {
       name: '8',
-      img: 'There is milk, bread and butter.'
+      img: 'Honduras'
     },
     {
       name: '8',
-      img: "Je tam mlieko, chlieb a maslo."
+      img: "Tegucigalpa"
     },
     {
       name: '9',
-      img: 'I don´t want to drink milk.'
+      img: 'Chile'
     },
     {
       name: '9',
-      img: "Nechcem piť mlieko."
+      img: "Santiago de Chile"
     },
     {
       name: '10',
-      img: 'What would you like to drink?'
+      img: 'Chorvatsko'
     },
     {
       name: '10',
-      img: "Čo si dáte na pitie?"
+      img: "Zahřeb"
     },
     {
       name: '11',
-      img: 'I am not thirsty anymore.'
+      img: 'Indie'
     },
     {
       name: '11',
-      img: 'Už nie som smädný.'
+      img: 'Nové Dillí'
     },
     {
       name: '12',
-      img: 'I´m looking for my wallet.'
+      img: 'Indonésie'
     },
     {
       name: '12',
-      img: "Hľadám svoju peňaženku."
+      img: "Jakarta"
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())
@@ -165,7 +165,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 5 completed!</h2><a href='https://elaidina.github.io/js/level6.html'> Continue to Level 6</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 5 completed!</h2><a href='https://elaidina.github.io/mesta/level6.html'> Continue to Level 6</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

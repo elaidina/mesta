@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'The bottle is empty.'
+      img: 'Egypt'
     },
     {
       name: '1',
-      img: "Tá fľaša je prázdna."
+      img: "Káhira"
     },
     {
       name: '2',
-      img: 'Do you have any bottle?'
+      img: 'Ekvádor'
     },
     {
       name: '2',
-      img: "Máš nejakú fľašu?"
+      img: "Quito"
     },
     {
       name: '3',
-      img: 'No, I don´t have any bottle.'
+      img: 'Eritrea'
     },
     {
       name: '3',
-      img: 'Nie, nemám žiadnu fľašu.'
+      img: 'Asmara'
     },
     {
       name: '4',
-      img: 'I have to go home.'
+      img: 'Estonsko'
     },
     {
       name: '4',
-      img: "Musím ísť domov."
+      img: "Tallinn"
     },
     {
       name: '5',
-      img: 'Why do you have to go?'
+      img: 'Etiopie'
     },
     {
       name: '5',
-      img: "Prečo musíš ísť?"
+      img: "Addis Abeba"
     },
     {
       name: '6',
-      img: 'I´m very tired.'
+      img: 'Fidži'
     },
     {
       name: '6',
-      img: "Som veľmi unavený."
+      img: "Suva"
     },
     {
       name: '7',
-      img: 'Where is your car?'
+      img: 'Filipíny'
     },
     {
       name: '7',
-      img: "Kde máš auto?"
+      img: "Manila"
     },
     {
       name: '8',
-      img: 'I don´t remember.'
+      img: 'Finsko'
     },
     {
       name: '8',
-      img: "Nepamätám si."
+      img: "Helsinky."
     },
     {
       name: '9',
-      img: 'I´ve got a present for you.'
+      img: 'Francie'
     },
     {
       name: '9',
-      img: "Mám pre teba darček."
+      img: "Paříž"
     },
     {
       name: '10',
-      img: "Chcem to vidieť."
+      img: "Gabon"
     },
     {
       name: '10',
-      img: 'I want to see it.'
+      img: 'Libreville'
     },
     {
       name: '11',
-      img: 'Je to veľké a krásne.'
+      img: 'Gambie'
     },
     {
       name: '11',
-      img: 'It ´s big and beautiful.'
+      img: 'Banjul'
     },
     {
       name: '12',
-      img: 'Give me the box.'
+      img: 'Ghana'
     },
     {
       name: '12',
-      img: 'Daj mi tú krabicu.'
+      img: 'Akkra'
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 4 completed!</h2><a href='https://elaidina.github.io/js/level5.html'> Continue to Level 5</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 4 completed!</h2><a href='https://elaidina.github.io/mesta/level5.html'> Continue to Level 5</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

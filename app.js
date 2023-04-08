@@ -27,75 +27,75 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'What´s this?'
+      img: 'Andorra'
     },
     {
       name: '4',
-      img: "Čo je toto?"
+      img: "Andorra la Vella"
     },
     {
       name: '5',
-      img: 'Where are you?'
+      img: 'Angola'
     },
     {
       name: '5',
-      img: "Kde si?"
+      img: "Luanda"
     },
     {
       name: '6',
-      img: 'I am at home.'
+      img: 'Antigua a Barbuda'
     },
     {
       name: '6',
-      img: "Som doma."
+      img: "Saint John´s"
     },
     {
       name: '7',
-      img: 'Where are you going?'
+      img: 'Argentina'
     },
     {
       name: '7',
-      img: "Kam ideš?"
+      img: "Buenos Aires"
     },
     {
       name: '8',
-      img: 'I am so excited!'
+      img: 'Arménie'
     },
     {
       name: '8',
-      img: "Som tak nadšená!"
+      img: "Jerevan"
     },
     {
       name: '9',
-      img: 'How old are you?'
+      img: 'Austrálie'
     },
     {
       name: '9',
-      img: "Koľko máš rokov?"
+      img: "Canberra"
     },
     {
       name: '10',
-      img: "Mám 7 rokov"
+      img: "Ázerbájdžán"
     },
     {
       name: '10',
-      img: 'I am 7 years old.'
+      img: 'Baku'
     },
     {
       name: '11',
-      img: 'Do you have a sister or brother?'
+      img: 'Bahamy'
     },
     {
       name: '11',
-      img: "Máš sestru alebo brata?"
+      img: "Nassau"
     },
     {
       name: '12',
-      img: 'How is the weather today?'
+      img: 'Bahrajn'
     },
     {
       name: '12',
-      img: "Aké je dnes počasie?"
+      img: "Manáma"
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 1 completed!</h2><a href="https://elaidina.github.io/js/level2.html"> Continue to Level 2</a>'
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 1 completed!</h2><a href="https://elaidina.github.io/mesta/level2.html"> Continue to Level 2</a>'
 
 
       var audio3 = new Audio ("images/end.mp3")
