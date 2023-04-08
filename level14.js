@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Does it move?'
+      img: 'Spojené arabské emiráty'
     },
     {
       name: '1',
-      img: 'Hýbe sa?'
+      img: 'Abú Zabí'
     },
     {
       name: '2',
-      img: 'How do you go to school?'
+      img: 'Spojené království (Velká Británie)'
     },
     {
       name: '2',
-      img: 'Ako chodíš do školy?'
+      img: 'Londýn'
     },
     {
       name: '3',
-      img: 'On foot, by bus, by tram or by car?'
+      img: 'Spojené státy americké'
     },
     {
       name: '3',
-      img: 'Pešo, autobusom, električkou alebo autom?'
+      img: 'Washington, D.C.'
     },
     {
       name: '4',
-      img: 'We´re going to make a salad in the kitchen.'
+      img: 'Srbsko'
     },
     {
       name: '4',
-      img: 'Urobíme šalát v kuchyni.'
+      img: 'Bělehrad'
     },
     {
       name: '5',
-      img: 'We need a knife, a spoon, a bowl, carrots, one cucumber, a cabbage, peas, some sugar and lemon juice.'
+      img: 'Středoafrická republika'
     },
     {
       name: '5',
-      img: 'Potrebujeme nôž, lyžicu, misku, mrkvu, jednu uhorku, kapustu, hrášok, trochu cukru a citrónovú šťavu.'
+      img: 'Bangui'
     },
     {
       name: '6',
-      img: 'First, we cut the vegetables.'
+      img: 'Sudán'
     },
     {
       name: '6',
-      img: 'Najskôr si nakrájame zeleninu.'
+      img: 'Chartúm'
     },
     {
       name: '7',
-      img: 'Then we mix all the ingredients together.'
+      img: 'Surinam'
     },
     {
       name: '7',
-      img: 'Potom všetky ingrediencie spolu zmiešame.'
+      img: 'Paramaribo'
     },
     {
       name: '8',
-      img: 'Finally, we put everything on plates.'
+      img: 'Svatá Lucie'
     },
     {
       name: '8',
-      img: 'Nakoniec dáme všetko na taniere.'
+      img: 'Castries'
     },
     {
       name: '9',
-      img: 'The salad is very tasty.'
+      img: ' Svatý Kryštof a Nevis'
     },
     {
       name: '9',
-      img: 'Šalát je veľmi chutný.'
+      img: 'Basseterre'
     },
     {
       name: '10',
-      img: 'My room is in a mess.'
+      img: ' Svatý Tomáš a Princův ostrov'
     },
     {
       name: '10',
-      img: 'V mojej izbe je neporiadok.'
+      img: 'São Tomé'
     },
     {
       name: '11',
-      img: 'There are clothes everywhere.'
+      img: ' Svatý Vincenc a Grenadiny'
     },
     {
       name: '11',
-      img: 'Všade je oblečenie.'
+      img: 'Kingstown'
     },
     {
       name: '12',
-      img: 'All my books and toys are on the floor.'
+      img: 'Svazijsko'
     },
     {
       name: '12',
-      img: 'Všetky moje knihy a hračky sú na podlahe.'
+      img: 'Mbabane'
     }
   ]
 

@@ -91,11 +91,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'You need to keep warm.'
+      img: 'Paraguay'
     },
     {
       name: '12',
-      img: 'Musíš sa udržiavať v teple.'
+      img: 'Asunción'
     }
   ]
 

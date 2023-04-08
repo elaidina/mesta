@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'They are looking forward to see their grandma.'
+      img: 'Trinidad a Tobago'
     },
     {
       name: '1',

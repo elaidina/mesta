@@ -3,37 +3,37 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'We are approaching the forest.'
+      img: 'Vietnam'
     },
     {
       name: '1',
-      img: 'Blížime sa k lesu.'
+      img: 'Hanoj'
     },
     {
       name: '2',
-      img: 'We can´t go by car into the forest.'
+      img: 'Východní Timor'
     },
     {
       name: '2',
-      img: 'Nemôžeme ísť autom do lesa.'
+      img: 'Dili'
     },
     {
       name: '3',
-      img: 'I like it here very much.'
+      img: 'Zambie'
     },
     {
       name: '3',
-      img: 'Veľmi sa mi tu páči.'
+      img: 'Lusaka'
     },
     {
       name: '4',
-      img: 'We can play in the meadow.'
+      img: 'Zimbabwe'
     },
     {
       name: '4',
-      img: 'Môžeme sa hrať na lúke.'
+      img: 'Harare'
     },
-    {
+    /* {
       name: '5',
       img: 'Look, there´s a butterfly on that flower.'
     },
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: '12',
       img: 'Chceš vidieť prasa a prasiatka?'
-    }
+    } */
   ]
 
   cardArray.sort(() => 0.5 - Math.random())

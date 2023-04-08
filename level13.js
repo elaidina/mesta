@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'What do you think about it?'
+      img: 'Samoa'
     },
     {
       name: '1',
-      img: 'Čo si o tom myslíš?'
+      img: 'Apia'
     },
     {
       name: '2',
-      img: 'Switch off the light.'
+      img: 'San Marino'
     },
     {
       name: '2',
-      img: 'Zhasnite svetlo.'
+      img: 'San Marino'
     },
     {
       name: '3',
-      img: 'Where do you play with your friends?'
+      img: 'Saudská Arábie'
     },
     {
       name: '3',
-      img: 'Kde sa hráš so svojimi kamarátmi?'
+      img: 'Rijád'
     },
     {
       name: '4',
-      img: 'When do you come home from work?'
+      img: 'Senegal'
     },
     {
       name: '4',
-      img: 'Kedy prídeš z práce?'
+      img: 'Dakar'
     },
     {
       name: '5',
-      img: 'Hold the screw-driver.'
+      img: 'Severní Korea'
     },
     {
       name: '5',
-      img: 'Držte skrutkovač.'
+      img: 'Pchjongjang'
     },
     {
       name: '6',
-      img: 'I watch a bedtime story every evening.'
+      img: 'Severní Makedonie'
     },
     {
       name: '6',
-      img: 'Každý večer pozerám rozprávku na dobrú noc.'
+      img: 'Skopje'
     },
     {
       name: '7',
-      img: 'Can you guess what I am?'
+      img: 'Seychely'
     },
     {
       name: '7',
-      img: 'Uhádneš, čo som?'
+      img: 'Victoria'
     },
     {
       name: '8',
-      img: 'Do you plant flowers and trees?'
+      img: 'Sierra Leone'
     },
     {
       name: '8',
-      img: 'Sadíš kvety a stromy?'
+      img: 'Freetown'
     },
     {
       name: '9',
-      img: 'Yes, I am a gardener.'
+      img: 'Singapur'
     },
     {
       name: '9',
-      img: 'Áno, som záhradník.'
+      img: 'Singapur'
     },
     {
       name: '10',
-      img: 'Guess what I am thinking of.'
+      img: 'Slovensko'
     },
     {
       name: '10',
-      img: 'Hádaj, na čo myslím.'
+      img: 'Bratislava'
     },
     {
       name: '11',
-      img: 'Is it a boy, a girl, an animal or a thing?'
+      img: 'Slovinsko'
     },
     {
       name: '11',
-      img: 'Je to chlapec, dievča, zviera alebo vec?'
+      img: 'Lublaň'
     },
     {
       name: '12',
-      img: 'Does it hang on the wall?'
+      img: 'Somálsko'
     },
     {
       name: '12',
-      img: 'Visí to na stene?'
+      img: 'Mogadišo'
     }
   ]
 

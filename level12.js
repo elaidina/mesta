@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: "I´ll make a tea for you."
+      img: "Peru"
     },
     {
       name: '1',
-      img: 'Uvarím ti čaj.'
+      img: 'Lima'
     },
     {
       name: '2',
-      img: "He´s got a sore throat and a headache."
+      img: "Pobřeží slonoviny"
     },
     {
       name: '2',
-      img: 'Bolí ho hrdlo a hlava.'
+      img: 'Yamoussoukro'
     },
     {
       name: '3',
-      img: 'They all have a tummy-ache.'
+      img: 'Polsko'
     },
     {
       name: '3',
-      img: 'Všetkých ich bolí bruško.'
+      img: 'Varšava'
     },
     {
       name: '4',
-      img: "What´s the matter with me?"
+      img: "Portugalsko"
     },
     {
       name: '4',
-      img: 'Čo je to so mnou?'
+      img: 'Lisabon'
     },
     {
       name: '5',
-      img: 'We must stay at home.'
+      img: 'Rakousko'
     },
     {
       name: '5',
-      img: 'Musíme zostať doma.'
+      img: 'Vídeň'
     },
     {
       name: '6',
-      img: "I don´t want to catch a cold."
+      img: "Konžská republika"
     },
     {
       name: '6',
-      img: 'Nechcem prechladnúť.'
+      img: 'Brazzaville'
     },
     {
       name: '7',
-      img: 'I keep eating a lot of fruits and vegetables and drinking warm tea with lemon and honey.'
+      img: 'Rovníková Guinea'
     },
     {
       name: '7',
-      img: 'Stále jem veľa ovocia a zeleniny a pijem teplý čaj s citrónom a medom.'
+      img: 'Malabo'
     },
     {
       name: '8',
-      img: 'Wipe your nose with a hanky.'
+      img: 'Rumunsko'
     },
     {
       name: '8',
-      img: 'Utri si nos vreckovkou.'
+      img: 'Bukurešť'
     },
     {
       name: '9',
-      img: 'Come along with me.'
+      img: 'Rusko'
     },
     {
       name: '9',
-      img: 'Poď so mnou.'
+      img: 'Moskva'
     },
     {
       name: '10',
-      img: 'You can help me if you like.'
+      img: 'Rwanda'
     },
     {
       name: '10',
-      img: 'Môžeš mi pomôcť, ak chceš.'
+      img: 'Kigali'
     },
     {
       name: '11',
-      img: 'She will come back in the afternoon.'
+      img: 'Řecko'
     },
     {
       name: '11',
-      img: 'Poobede sa vráti.'
+      img: 'Atény'
     },
     {
       name: '12',
-      img: 'I want to watch TV in the evening.'
+      img: 'Salvador'
     },
     {
       name: '12',
-      img: "Chcem večer pozerať televíziu."
+      img: "San Salvador"
     }
   ]
 

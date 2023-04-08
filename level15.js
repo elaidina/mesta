@@ -3,99 +3,99 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
     {
       name: '1',
-      img: 'Tidy this room up, please.'
+      img: 'Sýrie'
     },
     {
       name: '1',
-      img: 'Urobte v tejto izbe poriadok, prosím.'
+      img: 'Damašek'
     },
     {
       name: '2',
-      img: 'I´m looking for my pillow.'
+      img: 'Šalomounovy ostrovy'
     },
     {
       name: '2',
-      img: 'Hľadám svoj vankúš.'
+      img: 'Honiara'
     },
     {
       name: '3',
-      img: 'Let´s dress our dolls up.'
+      img: 'Španělsko'
     },
     {
       name: '3',
-      img: 'Oblečme naše bábiky.'
+      img: 'Madrid'
     },
     {
       name: '4',
-      img: 'What is the doll wearing?'
+      img: 'Srí Lanka'
     },
     {
       name: '4',
-      img: 'Čo má bábika na sebe?'
+      img: 'Šrí Džajavardanapura Kotte'
     },
     {
       name: '5',
-      img: 'The doll has got blue underpants, green trousers, yellow t-shirt, little shoes and a green jacket.'
+      img: 'Švédsko'
     },
     {
       name: '5',
-      img: 'Bábika má modré spodky, zelené nohavice, žlté tričko, topánočky a zelené sako.'
+      img: 'Stockholm'
     },
     {
       name: '6',
-      img: 'You look so lovely in this dress.'
+      img: 'Švýcarsko'
     },
     {
       name: '6',
-      img: 'Vyzeráš tak krásne v týchto šatách.'
+      img: 'Bern'
     },
     {
       name: '7',
-      img: 'She is wearing a red skirt, white nickers, blue tights, a white blouse and a green jacket.'
+      img: 'Tádžikistán'
     },
     {
       name: '7',
-      img: 'Má na sebe červenú sukňu, biele nohavičky, modré pančušky, bielu blúzku a zelené sako.'
+      img: 'Dušanbe'
     },
     {
       name: '8',
-      img: 'They are going for a trip today.'
+      img: 'Tanzanie'
     },
     {
       name: '8',
-      img: 'Dnes idú na výlet.'
+      img: 'Dodoma'
     },
     {
       name: '9',
-      img: 'They need to pack a lot of things.'
+      img: 'Thajsko'
     },
     {
       name: '9',
-      img: 'Musia si zbaliť veľa vecí.'
+      img: 'Bangkok'
     },
     {
       name: '10',
-      img: 'I don´t want to get up.'
+      img: 'Tchaj-wan'
     },
     {
       name: '10',
-      img: 'Nechcem vstávať.'
+      img: 'Tchaj-pej'
     },
     {
       name: '11',
-      img: 'You put your trainers on and you´re ready to go.'
+      img: 'Togo'
     },
     {
       name: '11',
-      img: 'Obuješ si tenisky a môžeš ísť.'
+      img: 'Lomé'
     },
     {
       name: '12',
-      img: 'The whole family is going to the country today.'
+      img: 'Tonga'
     },
     {
       name: '12',
-      img: 'Celá rodina ide dnes na vidiek.'
+      img: "Nuku'alofa"
     }
   ]
 
