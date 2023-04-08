@@ -7,95 +7,95 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tešia sa, že uvidia svoju babičku.'
+      img: 'Port of Spain'
     },
     {
       name: '2',
-      img: 'Her village is not far from the town.'
+      img: 'Tunisko'
     },
     {
       name: '2',
-      img: 'Jej dedina nie je ďaleko od mesta.'
+      img: 'Tunis'
     },
     {
       name: '3',
-      img: 'We are coming along with them.'
+      img: 'Turecko'
     },
     {
       name: '3',
-      img: 'Jej dedina nie je ďaleko od mesta.'
+      img: 'Ankara'
     },
     {
       name: '4',
-      img: 'Can you wait for us?'
+      img: 'Turkmenistán'
     },
     {
       name: '4',
-      img: 'Môžeš na nás počkať?'
+      img: 'Ašchabad'
     },
     {
       name: '5',
-      img: 'I must ask everyone.'
+      img: 'Tuvalu'
     },
     {
       name: '5',
-      img: 'Musím sa opýtať všetkých.'
+      img: 'Funafuti'
     },
     {
       name: '6',
-      img: 'We will be going through the town.'
+      img: 'Uganda'
     },
     {
       name: '6',
-      img: 'Pôjdeme cez mesto.'
+      img: 'Kampala'
     },
     {
       name: '7',
-      img: 'We will be able to see lots of cars, shops and big houses.'
+      img: 'Ukrajina'
     },
     {
       name: '7',
-      img: "Budeme môcť vidieť veľa áut, obchodov a veľkých domov."
+      img: "Kyjev"
     },
     {
       name: '8',
-      img: 'There are lots of people in the streets.'
+      img: 'Uruguay'
     },
     {
       name: '8',
-      img: 'V uliciach je veľa ľudí.'
+      img: 'Montevideo'
     },
     {
       name: '9',
-      img: 'Show me the way, please.'
+      img: 'Uzbekistán'
     },
     {
       name: '9',
-      img: 'Ukáž mi cestu, prosím.'
+      img: 'Taškent'
     },
     {
       name: '10',
-      img: "Go straight and then turn left."
+      img: "Vanuatu"
     },
     {
       name: '10',
-      img: 'Choďte rovno a potom odbočte doľava.'
+      img: 'Port Vila'
     },
     {
       name: '11',
-      img: "Turn right at the giant bridge."
+      img: "Vatikán"
     },
     {
       name: '11',
-      img: 'Pri obrovskom moste odbočte doprava.'
+      img: 'Vatikán'
     },
     {
       name: '12',
-      img: 'There´s my favourite shop on the right and a church on the left.'
+      img: 'Venezuela'
     },
     {
       name: '12',
-      img: 'Napravo je môj obľúbený obchod a naľavo kostol.'
+      img: 'Caracas'
     }
   ]
 
